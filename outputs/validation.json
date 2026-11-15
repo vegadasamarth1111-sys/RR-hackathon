@@ -1,0 +1,71 @@
+{
+  "deliveries": 200961,
+  "matches": 867,
+  "matches_in_metadata": 883,
+  "matches_without_ball_data": 16,
+  "matches_without_winner": 41,
+  "completed_matches_wp": 842,
+  "batters": 888,
+  "bowlers": 647,
+  "competitions": 138,
+  "seasons": [
+    "2022",
+    "2022/23",
+    "2023",
+    "2023/24",
+    "2024",
+    "2024/25",
+    "2025",
+    "2026"
+  ],
+  "pressure_share": 0.3436139350421226,
+  "pressure_deliveries": 69053,
+  "multi_rule_share": 0.1254833244029948,
+  "pressure_rules": {
+    "Chase": 0.1288458954722558,
+    "Death": 0.09445116216579336,
+    "Collapse": 0.14335617358591965,
+    "Knockout": 0.007643274068102766,
+    "Early collapse": 0.013778792900114948
+  },
+  "competition_mix": {
+    "IPL 2026": 74,
+    "IPL 2025": 74,
+    "IPL 2023": 74,
+    "IPL 2022": 74,
+    "IPL 2024": 71,
+    "Asia Cup 2025": 19,
+    "Mens T20 Emerging Teams Asia Cup 2024": 15,
+    "Asia Cup Rising Stars 2025": 15,
+    "Mens Twenty20 Asia Cup 2022": 13,
+    "New Zealand T20I Tri Series 2022/23": 7,
+    "England in Pakistan T20I Series 2022": 7,
+    "United Arab Emirates T20I Tri-Series 2025": 7
+  },
+  "eligible_batters": 78,
+  "eligible_bowlers": 120,
+  "wp": {
+    "1": {
+      "auc": 0.6931599584725897,
+      "brier": 0.2218129079412998,
+      "n": 103743
+    },
+    "2": {
+      "auc": 0.8951151083618962,
+      "brier": 0.13163184052371502,
+      "n": 95089
+    }
+  },
+  "split_half": {
+    "Batter": {
+      "rho": 0.0890527509926262,
+      "p": 0.5749154106130492,
+      "n": 42
+    },
+    "Bowler": {
+      "rho": 0.3659951988310197,
+      "p": 0.0025098086642054364,
+      "n": 66
+    }
+  }
+}

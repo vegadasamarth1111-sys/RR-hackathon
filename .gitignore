@@ -1,0 +1,30 @@
+# Raw data pack — never commit or redistribute
+ball_by_ball.csv
+6af855c0e8386_ball_by_ball.csv
+matches.csv
+competitions.csv
+competition_team_player_mapping.csv
+playing_eleven.csv
+teams.csv
+Round 1 Problem Statement*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Analysis intermediates and review previews
+analysis/*.parquet
+analysis/*.csv
+analysis/*_test.py
+analysis/explore*.py
+analysis/debug*.py
+analysis/prototype.py
+analysis/pdf_preview/
+analysis/deck_preview/
+analysis/mobile_test.html
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
